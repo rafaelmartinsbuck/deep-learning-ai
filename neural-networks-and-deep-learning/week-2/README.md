@@ -22,7 +22,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `Logistic_Regression_with_a_Neural_Network_mindset.ipynb` notebook file. You will also be required to use the `student-data.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+The code is provided in the `Logistic_Regression_with_a_Neural_Network_mindset.ipynb` notebook file.
 
 ### Run
 
