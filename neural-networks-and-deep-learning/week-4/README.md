@@ -20,18 +20,18 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-The code is provided in the `xxx.ipynb` notebook file.
+The code is provided in the `Deep_Neural_Network_Application.ipynb` notebook file.
 
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
 
 ```bash
-ipython notebook xxx.ipynb
+ipython notebook Deep_Neural_Network_Application.ipynb
 ```  
 or
 ```bash
-jupyter notebook xxx.ipynb
+jupyter notebook Deep_Neural_Network_Application.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
