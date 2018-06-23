@@ -1,4 +1,4 @@
-** Foundations of Convolutional Neural Networks **
+## Objectives
 
 - Understand the convolution operation
 - Understand the pooling operation
